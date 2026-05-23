@@ -1,7 +1,4 @@
-# Anuraj T R — Developer Portfolio
-
-> Personal portfolio website for **Anuraj T R** — Software Developer, Assistant Professor & Published Researcher from Kottayam, Kerala.
-
+# Anuraj T R 
 🔗 **Live Site:** `https://anurajtr2001.github.io` 
 
 
@@ -12,6 +9,6 @@
 - **LinkedIn:** [linkedin.com/in/anuraj-tr](https://linkedin.com/in/anuraj-tr)
 - **Location:** Kottayam, Kerala, India
 
----
 
-*Built with HTML5, CSS3 & Vanilla JS · No frameworks *
+
+
